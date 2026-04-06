@@ -280,7 +280,7 @@
   └── services/          (business logic services)
   ```
 - [X] Setup `.env` file with DB_URL, JWT_SECRET, PORT
-- [ ] Create basic Express server with health check endpoint
+- [X] Create basic Express server with health check endpoint
 
 #### 1.2 Database Setup with Prisma (2-3 days)
 - [X] Install Prisma: `npm install @prisma/client prisma`
